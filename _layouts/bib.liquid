@@ -151,9 +151,9 @@
     {% if entry.showvenue %}
       {% capture entrytype %}<em>{{entry.showvenue}}</em>{% endcapture %}
     {% elsif entry.type == 'article' %}
-      {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{entry.showvenue}}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{entry.booktitle}}</em> {% endcapture %}
+      {% capture entrytype %}<em>In {{entry.showvenue}}</em> {% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{entry.school}}</em> {% endcapture %}
     {% else %}
