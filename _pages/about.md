@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: > Research Scientist, Google DeepMind
-  <br>
-  <a href='#'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='#'>CV</a>
+#  <br>
+#  <a href='#'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='#'>CV</a>
 
 profile:
   align: right
