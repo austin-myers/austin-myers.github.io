@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <br> Research Scientist, Google DeepMind
-subtitle: <a href='#'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='assets/pdf/austin_myers_cv_2024-07-08_v0.pdf'>CV</a>
+subtitle: <a href='#'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='https://www.linkedin.com/in/austin-myers-b28544169/'>LinkedIn</a> / <a href='assets/pdf/austin_myers_cv_2024-07-08_v0.pdf'>CV</a>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 I am a Research Engineer at [Google DeepMind](https://deepmind.com/) in San Francisco,
 working on video and language understanding using deep neural networks.
 
-At Google I worked on large multimodal models for [AI-generated video in YouTube](https://blog.youtube/news-and-events/made-on-youtube-2023/), [video and language representation learning](https://research.google/blog/learning-cross-modal-temporal-representations-from-unlabeled-videos/), [capturing special video moments for Google Photos](https://research.google/blog/capturing-special-video-moments-with-google-photos/), and open sourcing state-of-the-art [object detection](https://github.com/tensorflow/models/tree/master/research/object_detection) methods. Previously, I worked at [Google X](https://x.company/) and [Waymo](https://waymo.com/) on perception for self-driving cars.
+At Google I've worked on [self-supervised video and language representation learning](https://research.google/blog/learning-cross-modal-temporal-representations-from-unlabeled-videos/), using [large multimodal models for AI-generated video in YouTube](https://blog.youtube/news-and-events/made-on-youtube-2023/), and [capturing special video moments in Google Photos](https://research.google/blog/capturing-special-video-moments-with-google-photos/). I've also open sourced [object detection](https://github.com/tensorflow/models/tree/master/research/object_detection) models, and I previously worked at [Google X](https://x.company/) and [Waymo](https://waymo.com/) on perception for self-driving cars.
 
 I did my Ph.D. at the [University of Maryland](https://www.cs.umd.edu/),
 where I worked on understanding the functionality of object parts to enable tool-use for everyday robots.
