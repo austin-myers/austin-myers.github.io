@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <br> Research Scientist, Google DeepMind
-subtitle: <a href='mailto:austinomyers@gmail.com'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='https://www.linkedin.com/in/austin-myers-b28544169/'>LinkedIn</a> / <a href='assets/pdf/austin_myers_cv_2024-07-10_v1.pdf'>CV</a>
+subtitle: <a href='mailto:austinomyers@gmail.com'>Email</a> / <a href='https://scholar.google.com/citations?user=Tw8DY-cAAAAJ'>Google Scholar</a> / <a href='https://www.linkedin.com/in/austin-myers-b28544169/'>LinkedIn</a> / <a href='assets/pdf/austin_myers_cv_2024-07-10.pdf'>CV</a>
 
 profile:
   align: right
